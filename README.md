@@ -32,6 +32,7 @@ Batchman was built as a NodeJS library. Other technologies used:
     - Callbacks could be unessary for some generic jobs
     - Event Emitter approach great for extensibility
     - Event Emmitter also great for decoupling and keeping the handling of events in a single place
+    - Event emitter for at least errors would allow for more graceful errror handling
 
 
 ## Usage/Examples
