@@ -1,7 +1,7 @@
 # Batchman 
 I simple and highly configurable micro batching library.
 
-![Logo](https://assets.peachystyling.com.au/batchman.gif)
+![alt text](https://github.com/bardie1/batchman/blob/master/batchman.gif?raw=true)
 
 ## Hey Upguard 👋
 Thank you for stopping by. I hope you enjoy reading through Batchman.
