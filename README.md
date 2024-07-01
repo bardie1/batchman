@@ -20,6 +20,7 @@ Batchman was built as a NodeJS library. Other technologies used:
 - Batch processor agnostic. BYOP (Bring Your Own Processor)
 - Configurable batch sizes and frequency
 - Group jobs by key
+- Retrieve job to check status
 
 ## Future Improvements
 
