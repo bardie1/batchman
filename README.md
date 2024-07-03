@@ -3,7 +3,7 @@ I simple and highly configurable micro batching library.
 
 ![alt text](https://github.com/bardie1/batchman/blob/master/batchman.gif?raw=true)
 
-## Hey Upguard 👋
+## Hey 👋
 Thank you for stopping by. I hope you enjoy reading through Batchman.
 
 ## Tech Stack
